@@ -296,6 +296,7 @@ struct ContentView: View {
         RoadmapView(configuration: configuration)
     }
 }
+```
 
 ## FAQ
 ### Does Roadmap prevent users from voting multiple times?
